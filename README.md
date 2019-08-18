@@ -2,7 +2,6 @@
 A simple plugin to add and display contributors (from site members) to blog post.
 === Add Contributors ===
 Contributors: benjibabs
-Donate link: http://itcrackteam.com/101series/wordpress/plugins/ict101s-contributors
 Tags: contributors, list, Authors, collaboration, helpers, 
 Requires at least: 5.2.2
 Tested up to: 5.2.2
@@ -44,16 +43,12 @@ at the bottom of a new post or post to be edited. Simnply, check off the boxes w
 and continue as usual.
 
 = Could the location of the contributor checkboxes be changed? =
-Yes, please contact ict-WP-Plugin-support@itcrackteam.com.
+Yes
 
 
 = Where would the list of the contributors appear in the post? =
 
 The list of the contributors will appear in a box under the content of the post.
-
-
-= I don't like the look and feel of the list of the contributors, can it be modified? =
-Yes, please contact ict-WP-Plugin-support@itcrackteam.com.
 
 = Why am I getting 404 error page when I clicked on a contributor's name =
 The names of the contributors are linked to their author's pages. If the you are getting 
