@@ -2,7 +2,7 @@
 Contributors: benjibabs
 Donate link: http://itcrackteam.com/101series/wordpress/plugins/ict101s-contributors
 Tags: contributors, list, Authors, collaboration, helpers, 
-Requires at least: 3.0.1
+Requires at least: 5.2.2
 Tested up to: 5.2.2
 Requires PHP: 5.2.4
 Stable tag: 1.0
