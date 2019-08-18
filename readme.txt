@@ -22,13 +22,11 @@ each post.
 
 === From within WordPress ===
 
-1. Visit 'Plugins > Add New'
-1. Search for 'Add Contributors'
-1. Activate 'Add Contributors' from your Plugins page.
+1. Coming soon!
 
 === Manually ===
  
-1. Upload `ict101s-contributors` folder to the `/wp-content/plugins/` directory
+1. Upload `WordPress-Contributors` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
  
 == Frequently Asked Questions ==
