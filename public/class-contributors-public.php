@@ -50,7 +50,7 @@ abstract class Contributors_Public {
 	 * Registers and enqueues css styles for the public view
 	 */
 	public static function enqueue_plugin_styles() {
-		wp_enqueue_style( 'style', plugins_url( 'ict101s-contributors/public/css/public-style.css' ), array(), '1.0' );
+		wp_enqueue_style( 'public-style', plugins_dir_url( __FILE__ ). 'css/public-style.css', array(), '1.0' );
 	}
 }
 
