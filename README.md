@@ -1,26 +1,27 @@
 # WordPress-Contributors
 A simple plugin to add and display contributors (from site members) to blog post.
 
-### Add Contributors 
+### Plugin Name
+Add Contributors 
+
+### Details
+
+Creates a metabox to select WordPress users to list as contributors in post.
+
 Contributors: benjibabs
 
 Tags: contributors, list, Authors, collaboration, helpers, 
 
-Requires at least: 5.2.2
+Requires at least: 3.1.0
 
 Tested up to: 5.2.2
 
 Requires PHP: 5.2.4
 
-Stable tag: 1.0
-
 License: GPLv3 or later
 
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
- 
-Creates a metabox to select WordPress users to list as contributors in post.
- 
 ### Description
  
 Add Contributors creates a meta box labelled 'Contributors' and populates it with checkboxes
