@@ -30,10 +30,6 @@ each post.
 
 ### Installation 
 
-#### From within WordPress 
-
-1. Coming soon!
-
 #### Manually 
  
 1. Upload `WordPress-Contributors` folder to the `/wp-content/plugins/` directory
@@ -41,24 +37,24 @@ each post.
  
 ### Frequently Asked Questions
  
-##### Is there any settings to configure after activating the plugin? 
+#### Is there any settings to configure after activating the plugin? 
  
 Add Contributors has no settings to configure.
  
-##### Where would I select the contributors? 
+#### Where would I select the contributors? 
 
 Once the plugin is activated, a list of your blog members along with checkboxes  will appear 
 at the bottom of a new post or post to be edited. Simnply, check off the boxes with the contributors' name(s)
 and continue as usual.
 
-##### Could the location of the contributor checkboxes be changed? 
+#### Could the location of the contributor checkboxes be changed? 
 Yes
 
-##### Where would the list of the contributors appear in the post? 
+#### Where would the list of the contributors appear in the post? 
 
 The list of the contributors will appear in a box under the content of the post.
 
-##### Why am I getting 404 error page when I clicked on a contributor's name
+#### Why am I getting 404 error page when I clicked on a contributor's name
 The names of the contributors are linked to their author's pages. If the you are getting 
 404 error page, you probably don't have a template created for the autor's page in your
 theme's folder; please create one in the root of your themes folder and the link will automaticly pick it up.
